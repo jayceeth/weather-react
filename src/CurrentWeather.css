@@ -1,0 +1,20 @@
+.CurrentWeather ul {
+  list-style: none;
+  padding: 0;
+  font-size: 20px;
+  color: rgb(94, 94, 94);
+}
+
+.CurrentWeather span,
+ul {
+  position: relative;
+  left: 55px;
+  top: 40px;
+}
+.CurrentWeather span {
+  font-size: 40px;
+  padding: 40px;
+}
+.CurrentWeather .WeatherCondition {
+  margin-top: 40px;
+}
