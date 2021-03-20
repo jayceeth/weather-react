@@ -6,7 +6,7 @@ export default function SearchEngine() {
     <div className="SearchEngine">
       <form id="search-form" className="mb-3">
         <div className="row">
-          <div className="col-4">
+          <div class="col-sm-4">
             <input
               type="search"
               placeholder="Enter a city"
