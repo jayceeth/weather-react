@@ -14,7 +14,7 @@ export default function App() {
       <ForecastOne />
       <ForecastTwo />
       <p>
-          <a href="https://github.com/jayceeth/weather-react" target="_blank"
+          <a href="https://github.com/jayceeth/weather-react"
             >Open-source code</a
           >
            {" "}by Jaycee Huynh
