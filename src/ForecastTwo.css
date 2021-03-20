@@ -1,0 +1,18 @@
+.ForecastTwo ul {
+  list-style: none;
+  position: relative;
+  left: 350px;
+  top: -205px;
+  padding: 0;
+}
+.ForecastTwo li {
+  display: inline-block;
+  margin: 20px;
+}
+.ForecastTwo h3 {
+  font-size: 20px;
+  color: rgb(94, 94, 94);
+}
+.ForecastTwo .Temperature {
+  font-size: 15px;
+}
