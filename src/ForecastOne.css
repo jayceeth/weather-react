@@ -1,0 +1,18 @@
+.ForecastOne ul {
+  list-style: none;
+  position: relative;
+  left: 350px;
+  top: -215px;
+  padding: 0;
+}
+.ForecastOne li {
+  display: inline-block;
+  margin: 20px;
+}
+.ForecastOne h3 {
+  font-size: 20px;
+  color: rgb(94, 94, 94);
+}
+.ForecastOne .Temperature {
+  font-size: 15px;
+}
