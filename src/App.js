@@ -13,12 +13,12 @@ export default function App() {
       <CurrentWeather />
       <ForecastOne />
       <ForecastTwo />
-      <small>
+      <p>
           <a href="https://github.com/jayceeth/weather-react" target="_blank"
             >Open-source code</a
           >
-          by Jaycee Huynh
-        </small>
+           {" "}by Jaycee Huynh
+        </p>
     </div>
   );
 }
